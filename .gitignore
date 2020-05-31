@@ -4,6 +4,18 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+projeto/pesos/*
+!projeto/pesos/.gitkeep 
+
+projeto/modelos/*
+!projeto/modelos/.gitkeep 
+
+projeto/classificadores/*
+!projeto/classificadores/.gitkeep 
+
+projeto/.ipynb_checkpoints
+
+.DS_Store
 # Other files and folders
 .settings/
 
